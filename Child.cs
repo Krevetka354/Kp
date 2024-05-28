@@ -6,6 +6,7 @@ public enum Gender
     Female
 }
 
+[Serializable]
 public class Child
 {
     public string Name { get; set; }
